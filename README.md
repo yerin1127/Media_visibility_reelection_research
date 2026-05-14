@@ -437,4 +437,42 @@ Explanatory Sequential Design
 > 정치에서 중요한 것은 얼마나 많이 언론에 등장했는가가 아니라,
 > 어떤 내용으로 등장했는가이다.
 
+---
+
+# 📂 Repository Files
+
+## 📄 Research Report
+
+- [최종 분석 보고서 (PDF)](분석%20보고서_정치학과%20이예린.pdf)
+
+---
+
+## 📊 Final Dataset
+
+- [최종 분석 데이터셋 (Excel)](최종_데이터셋_final_realfinal.xlsx)
+
+---
+
+## 📈 Statistical Outputs
+
+- [기술통계표](기술통계표.xlsx)
+- [상관분석표](상관분석표.xlsx)
+- [VIF 결과](VIF_결과.xlsx)
+- [로지스틱 회귀 결과](로지스틱회귀_결과.xlsx)
+
+---
+
+## 🖼 Figures
+
+### Correlation Heatmap
+
+![Correlation Heatmap](상관분석_heatmap.png)
+
+---
+
+## 💻 Code
+
+- [빅카인즈 데이터셋 제작 코드 (Jupyter Notebook)](빅카인즈%20데이터셋%20제작%20코드.ipynb)
+
+---
 
